@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Devmalya1033",
   resume:
-    "https://drive.google.com/file/d/1_eWwb9NFbWHgyHFf-rQ7aiMOnVUJ6vyB/view?usp=sharing",
+    "https://drive.google.com/file/d/1St4GjJ19zZdXdZyQKleVA01iZQ5E65yj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/devmalya-mondal-899b07247/",
   twitter: "https://x.com/devmalya_018?t=hoJcMf8QhswDN-xOz_3fxA&s=08",
   insta: "https://www.instagram.com/mondaldevmalya/?hl=en",
