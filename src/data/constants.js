@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Devmalya1033",
   resume:
-    "https://drive.google.com/file/d/1uwo8xL_g-cYbs5nMLihLbM3_YlHLz5S1/view?usp=sharing",
+    "https://drive.google.com/file/d/1_eWwb9NFbWHgyHFf-rQ7aiMOnVUJ6vyB/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/devmalya-mondal-899b07247/",
   twitter: "https://x.com/devmalya_018?t=hoJcMf8QhswDN-xOz_3fxA&s=08",
   insta: "https://www.instagram.com/mondaldevmalya/?hl=en",
@@ -111,7 +111,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
+          "https://mms.businesswire.com/media/20230322005274/en/761650/22/postman-logo-vert-2018.jpghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcYJoetYqKxgVtDoFHN08qIF811Aglug-sw&s",
       },
       {
         name: "Java",
@@ -280,6 +280,50 @@ export const education = [
 export const projects = [
   {
     id: 11,
+    title: "Connectify Full Stack Chat & Video Conferencing Platform",
+    date: "August 2025",
+    description:
+      "Built a full-stack real-time messaging and video calling application with JWT authentication, 1-on-1 calls, screen sharing, and multilingual UI themes using React, Express, MongoDB, TailwindCSS, TanStack Query, and Zustand.",
+    image:
+      "https://img-c.udemycdn.com/course/750x422/5191654_4461.jpg",
+    tags: [
+      "React.js",
+      "Node.js", 
+      "Express.js", 
+      "MongoDB", 
+      "TanStack Query", 
+      "Tailwind",
+      "JWT",
+    ],
+    category: "web app",
+    github: "https://github.com/Devmalya1033/Connectify-Realtime-Chat-Video-Call",
+    webapp: "https://connectify-realtime-chat-video-call.onrender.com",
+  },
+  {
+    id: 11,
+    title: "Advance AuthenticationApp",
+    date: "July 2025",
+    description:
+      "Built a secure full-stack Authentication App using the MERN stack.Implemented user signup with email verification via Mailtrap, JWT-based login, and password reset functionality.Protected routes and sessions with secure cookies and token validation.Deployed the app live with a user-friendly React frontend and Zustand for state management. There are Email Verification Code,Password Recovery Features,Welcome Emails features.",
+    image:
+      "https://i.ytimg.com/vi/7BTsepZ9xp8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0rst2BeGPQrD-EEDJ-dVhcTEP1Q",
+    tags: [
+      "React.js",
+      "Zustand",
+      "Axios",
+      "Vite", 
+      "Node.js", 
+      "Express.js", 
+      "MongoDB", 
+      "JWT", 
+      "Mailtrap API",
+    ],
+    category: "web app",
+    github: "https://github.com/Devmalya1033/AuthenticationApp",
+    webapp: "https://authenticationapp-lidh.onrender.com",
+  },
+  {
+    id: 11,
     title: "Final Year Project – DETECTORS: A JS Tool to Detect & Prevent Vulnerabilities in Solidity Smart Contracts",
     date: "Jun 2025",
     description:
@@ -289,7 +333,7 @@ export const projects = [
     tags: [
       "JavaScript",
       "Node Js",
-      "Solidity Files,",
+      "Solidity Files",
     ],
     category: "web app",
     github: "https://github.com/Devmalya1033/DETECTORS-DESIGN-AND-DEVELOPMENT-OF-STATIC-ANALYSIS-TOOL-FOR-SOLIDITY-SMART-CONTRACT-VULNERABILITIES",
